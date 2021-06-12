@@ -24,7 +24,7 @@ export default function Greeting() {
         <A href="https://pastprofile.com">PastProfile</A>. If
         you’d like to say hello, follow me on{" "}
         <A href="https://twitter.com/heyomkarbirje">twitter</A> or{" "}
-        <A href="https://twitter.com/pastprofile">github</A>.
+        <A href="https://twitter.com/pastprofile">pastprofile</A>.
       </Text>
     </Container>
   )
