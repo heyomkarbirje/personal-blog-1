@@ -20,10 +20,11 @@ export default function Greeting() {
     <Container>
       <AuthorAvatar src="/avatars/@steveruizok.jpg" />
       <Text css={{ my: 0 }}>
-        <b>Hi, I’m Steve.</b> I write about design, code, and creative tools. If
+        <b>Hi, I’m Omkar.</b> I write about founders and startup at{" "}
+        <A href="https://pastprofile.com">PastProfile</A>. If
         you’d like to say hello, follow me on{" "}
-        <A href="https://twitter.com/steveruizok">twitter</A> or{" "}
-        <A href="https://github.com/steveruizok">github</A>.
+        <A href="https://twitter.com/heyomkarbirje">twitter</A> or{" "}
+        <A href="https://twitter.com/pastprofile">github</A>.
       </Text>
     </Container>
   )
