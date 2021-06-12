@@ -18,7 +18,7 @@ const AuthorAvatar = styled(Avatar, {
 export default function Greeting() {
   return (
     <Container>
-      <AuthorAvatar src="/avatars/@steveruizok.jpg" />
+      <AuthorAvatar src="/avatars/OmkarBirje.png" />
       <Text css={{ my: 0 }}>
         <b>Hi, I’m Omkar.</b> I write about founders and startup at{" "}
         <A href="https://pastprofile.com">PastProfile</A>. If
